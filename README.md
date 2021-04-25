@@ -179,4 +179,4 @@ BrowserStack allows us to test in real browsers.
 
 [<img loading="lazy" alt="CodeCov" src="https://github.com/codecov.png?size=70" width="35" height="35">](https://codecov.io/)
 
-CodeCov allows us to monitor the test coverage.
+CodeCov allows us to monitor the test coverage.....
